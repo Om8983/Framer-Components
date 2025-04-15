@@ -4,7 +4,6 @@
 import { useState } from "react"
 import Tabs from "./Tabs"
 import Hover from "./Hover"
-import { useMotionValue } from "motion/react"
 
 
 export default function Menu() {
